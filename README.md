@@ -1,6 +1,4 @@
-# 🦾🤖🤳
-# Hi there, I'm Kent 👋
-
+## Hi there, I'm Kent 🦾🤖🤳
 I'm a full-stack developer with a passion for creating immersive web apps. I specialize in JavaScript frameworks like React and mobile development with React Native. I'm always learning and experimenting with new technologies.
 
 ### 👩🏻‍💻 Technologies & Tools I Use
