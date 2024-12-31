@@ -13,3 +13,5 @@ I'm a full-stack developer with a passion for creating immersive web and mobile 
 #### Dev Tools: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 #### Operating Systems: ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentmcamp&layout=compact)
