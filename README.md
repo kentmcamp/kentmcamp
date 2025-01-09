@@ -19,10 +19,19 @@ I'm a full-stack developer with a passion for creating immersive web and mobile 
 ![Firebase](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/firebaseIcon.webp) 
 
 
-#### Mobile Development: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=black)
+#### Mobile Development: 
+![React Native](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/reactnativeIcon.webp) 
+![Kotlin](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/kotlinIcon.webp)
 
-#### Dev Tools: ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+#### Dev Tools: 
+![VS Code](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/vscodeIcon.webp)
+![Visual Studio](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/visualStudioIcon.webp)
+![Git](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/gitIcon.webp)
+![GitHub](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/githubIcon.webp)
 
-#### Operating Systems: ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+#### Operating Systems: 
+![Windows](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/windowsIcon.webp) 
+![Linux](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/linuxIcon.webp)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentmcamp&layout=compact)
