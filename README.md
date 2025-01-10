@@ -4,14 +4,12 @@ I'm a full-stack developer with a passion for creating immersive web and mobile 
 ### 👩🏻‍💻 Technologies & Tools I Use
 
 #### Languages:
+![JavaScript](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/javascriptIcon.webp)
 ![C++](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/cppIcon.webp) 
 ![C#](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/csharpIcon.webp)
 ![Java](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/javaIcon.webp)
 
 #### Web Dev Front-End:
-![HTML](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/htmlIcon.webp)
-![CSS](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/cssIcon.webp)
-![JavaScript](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/javascriptIcon.webp)
 ![TypeScript](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/typescriptIcon.webp) 
 ![React](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/reactIcon.webp) 
 ![Next.js](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/nextjsIcon.webp)
