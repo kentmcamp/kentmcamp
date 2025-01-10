@@ -7,7 +7,6 @@ I'm a full-stack developer with a passion for creating immersive web and mobile 
 ![C++](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/cppIcon.webp) 
 ![C#](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/csharpIcon.webp)
 ![Java](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/javaIcon.webp)
-![Unity](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/unityIcon.webp)
 
 #### Web Dev Front-End:
 ![HTML](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/htmlIcon.webp)
@@ -33,6 +32,7 @@ I'm a full-stack developer with a passion for creating immersive web and mobile 
 #### Dev Tools: 
 ![VS Code](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/vscodeIcon.webp)
 ![Visual Studio](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/visualStudioIcon.webp)
+![Unity](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/unityIcon.webp)
 ![Git](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/gitIcon.webp)
 ![GitHub](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/githubIcon.webp)
 ![Docker](https://raw.githubusercontent.com/kentmcamp/kentmcamp/refs/heads/main/dockerIcon.webp)
