@@ -1,6 +1,11 @@
 ## Hi there, I'm Kent 🦾🤖🤳
 I'm a full-stack developer with a passion for creating immersive web and mobile apps. I specialize in JavaScript frameworks like React and mobile development with React Native. I'm always learning and experimenting with new technologies.
 
+### Recent Live Projects
+[Space Scene with Three.js](https://kentmcamp.github.io/3dspacescene)
+[Customizable Synth with Keyboard](https://kentmcamp.github.io/webAudio/)
+
+
 ### 👩🏻‍💻 Technologies & Tools I Use
 
 #### Languages:
