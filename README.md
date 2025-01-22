@@ -2,7 +2,7 @@
 I'm a full-stack developer with a passion for creating immersive web and mobile apps. I specialize in JavaScript frameworks like React and mobile development with React Native. I'm always learning and experimenting with new technologies.
 
 ### Recent Live Projects
-🌎 Space Scene with Three.js: [kentmcamp.github.io/3dspacescene](kentmcamp.github.io/3dspacescene)  
+🌎 Space Scene with Three.js: [kentmcamp.github.io/3dspacescene](https://kentmcamp.github.io/3dspacescene/)  
 🎹 Customizable Synth with Keyboard: [kentmcamp.github.io/webAudio/](https://kentmcamp.github.io/webAudio/)
 
 
